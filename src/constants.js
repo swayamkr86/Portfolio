@@ -118,7 +118,7 @@ export const experiences = [
     img: CognifyzLogo,
     role: "Fullstack Developer",
     company: "Cognifyz Technologies",
-    date: "May 2024 - August 2024",
+    date: "July 2024 - August 2024",
     desc: "Developed dynamic and scalable web applications using the MERN stack, handling both frontend and backend development. Collaborated with cross-functional teams to build responsive UI, implement RESTful APIs, and optimize application performance in an agile environment.",
     skills: [
       "HTML",
