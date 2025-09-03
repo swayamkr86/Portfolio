@@ -61,10 +61,10 @@ export const SkillsInfo = [
       { name: "React JS", logo: reactjsLogo },
       // { name: "Angular", logo: angularLogo },
       { name: "Redux", logo: reduxLogo },
-      // { name: 'Next JS', logo: nextjsLogo },
+      { name: "Next JS", logo: nextjsLogo },
       { name: "Tailwind CSS", logo: tailwindcssLogo },
       // { name: "GSAP", logo: gsapLogo },
-      // { name: "Material UI", logo: materialuiLogo },
+      { name: "Material UI", logo: materialuiLogo },
       { name: "Bootstrap", logo: bootstrapLogo },
       { name: "daisyUI", logo: daisyUI },
     ],
@@ -72,13 +72,13 @@ export const SkillsInfo = [
   {
     title: "Backend",
     skills: [
-      // { name: "Springboot", logo: springbootLogo },
+      { name: "Springboot", logo: springbootLogo },
       { name: "Node JS", logo: nodejsLogo },
       { name: "Express JS", logo: expressjsLogo },
       { name: "MySQL", logo: mysqlLogo },
       { name: "MongoDB", logo: mongodbLogo },
       // { name: "Firebase", logo: firebaseLogo },
-      // { name: "PostgreSQL", logo: postgreLogo },
+      { name: "PostgreSQL", logo: postgreLogo },
     ],
   },
   {
@@ -86,11 +86,11 @@ export const SkillsInfo = [
     skills: [
       { name: "C", logo: cLogo },
       { name: "C++", logo: cppLogo },
-      // { name: "Java", logo: javaLogo },
+      { name: "Java", logo: javaLogo },
       { name: "Python", logo: pythonLogo },
       // { name: "C-Sharp", logo: csharpLogo },
       { name: "JavaScript", logo: javascriptLogo },
-      // { name: "TypeScript", logo: typescriptLogo },
+      { name: "TypeScript", logo: typescriptLogo },
     ],
   },
   {
