@@ -37,6 +37,23 @@ import thunderClient from "./assets/tech_logo/thunderClient.png";
 import render from "./assets/tech_logo/render.png";
 import jwt from "./assets/tech_logo/jwt.png";
 import Cloudinary from "./assets/tech_logo/Cloudinary.png";
+import Numpy from "./assets/tech_logo/Numpy.png";
+import Pandas from "./assets/tech_logo/Pandas.png";
+import ScikitLearn from "./assets/tech_logo/ScikitLearn.png";
+import Matplotlib from "./assets/tech_logo/Matplotlib.png";
+import Seaborn from "./assets/tech_logo/Seaborn.png";
+import PyTorch from "./assets/tech_logo/PyTorch.png";
+import TensorFlow from "./assets/tech_logo/TensorFlow.png";
+import Keras from "./assets/tech_logo/Keras.png";
+import CUDA from "./assets/tech_logo/CUDA.png";
+import Streamlit from "./assets/tech_logo/Streamlit.png";
+import HuggingFace from "./assets/tech_logo/HuggingFace.png";
+import LangChain from "./assets/tech_logo/LangChain.png";
+import LlamaIndex from "./assets/tech_logo/LlamaIndex.png";
+import OpenAI_API from "./assets/tech_logo/OpenAI_API.png";
+import FAISS from "./assets/tech_logo/FAISS.png";
+import Pinecone from "./assets/tech_logo/Pinecone.png";
+import Weaviate from "./assets/tech_logo/Weaviate.png";
 
 // Experience Section Logo's
 import CognifyzLogo from "./assets/company_logo/Cognifyz_logo.png";
@@ -114,23 +131,23 @@ export const SkillsInfo = [
     title: "AI/ML/DL/GenAI",
     skills: [
       { name: "Python", logo: pythonLogo },
-      { name: "Numpy", logo: NumpyLogo },
-      { name: "Pandas", logo: Pandaslogo },
-      { name: "Scikit-learn", logo: Scikit - learnLogo },
-      { name: "Matplotlib", logo: MatplotlibLogo },
-      { name: "Seaborn", logo: SeabornLogo },
-      { name: "PyTorch", logo: PyTorchLogo },
-      { name: "TensorFlow", logo: TensorFlowLogo },
-      { name: "Keras", logo: KerasLogo },
-      { name: "CUDA", logo: CUDALogo },
-      { name: "Streamlit", logo: StreamlitLogo },
-      { name: "Hugging Face", logo: HuggingFaceLogo },
-      { name: "LangChain", logo: LangChainLogo },
-      { name: "LlamaIndex", logo: LlamaIndexLogo },
-      { name: "OpenAI API", logo: OpenAIAPILogo },
-      { name: "FAISS", logo: FAISSLogo },
-      { name: "Pinecone", logo: PineconeLogo },
-      { name: "Weaviate", logo: WeaviateLogo },
+      { name: "Numpy", logo: Numpy },
+      { name: "Pandas", logo: Pandas },
+      { name: "Scikit-learn", logo: ScikitLearn },
+      { name: "Matplotlib", logo: Matplotlib },
+      { name: "Seaborn", logo: Seaborn },
+      { name: "PyTorch", logo: PyTorch },
+      { name: "TensorFlow", logo: TensorFlow },
+      { name: "Keras", logo: Keras },
+      { name: "CUDA", logo: CUDA },
+      { name: "Streamlit", logo: Streamlit },
+      { name: "Hugging Face", logo: HuggingFace },
+      { name: "LangChain", logo: LangChain },
+      { name: "LlamaIndex", logo: LlamaIndex },
+      { name: "OpenAI API", logo: OpenAI_API },
+      { name: "FAISS", logo: FAISS },
+      { name: "Pinecone", logo: Pinecone },
+      { name: "Weaviate", logo: Weaviate },
     ],
   },
 ];
