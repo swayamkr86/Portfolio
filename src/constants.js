@@ -41,7 +41,7 @@ import Numpy from "./assets/tech_logo/Numpy.png";
 import Pandas from "./assets/tech_logo/Pandas.png";
 import ScikitLearn from "./assets/tech_logo/ScikitLearn.png";
 import Matplotlib from "./assets/tech_logo/Matplotlib.png";
-import Seaborn from "./assets/tech_logo/Seaborn.webp";
+import Seaborn from "./assets/tech_logo/Seaborn.png";
 import PyTorch from "./assets/tech_logo/PyTorch.png";
 import TensorFlow from "./assets/tech_logo/TensorFlow.png";
 import Keras from "./assets/tech_logo/Keras.png";
