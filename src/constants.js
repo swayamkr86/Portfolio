@@ -83,6 +83,7 @@ import VectorDBs from "./assets/tech_logo/VectorDBs.jpg";
 
 // Experience Section Logo's
 import CognifyzLogo from "./assets/company_logo/Cognifyz_logo.png";
+import Deloitte from "./assets/company_logo/Deloitte.png";
 
 // Education Section Logo's
 import KV_logo from "./assets/education_logo/KV_logo.png";
@@ -221,10 +222,28 @@ export const SkillsInfo = [
 export const experiences = [
   {
     id: 0,
+    img: Deloitte,
+    role: "AI/ML Intern",
+    company: "Deloitte",
+    //date: "June 2025 - July 2025",
+    desc: "Designed and optimized machine learning models using Python, TensorFlow, and scikit-learn, achieving improved prediction accuracy. Automated data preprocessing workflows and deployed proof-of-concept AI solutions with Streamlit to demonstrate scalability for business applications.",
+    skills: [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "Pandas",
+      "NumPy",
+      "Streamlit",
+    ],
+  },
+
+  {
+    id: 1,
     img: CognifyzLogo,
-    role: "Fullstack Developer",
+    role: "Fullstack Developer Intern",
     company: "Cognifyz Technologies",
-    date: "July 2024 - August 2024",
+    //date: "July 2024 - August 2024",
     desc: "Developed dynamic and scalable web applications using the MERN stack, handling both frontend and backend development. Collaborated with cross-functional teams to build responsive UI, implement RESTful APIs, and optimize application performance in an agile environment.",
     skills: [
       "HTML",
