@@ -316,6 +316,49 @@ export const projects = [
   },
   {
     id: 1,
+    title: "Real-Time Chat Application",
+    description:
+      "A real-time chat application built with the MERN stack, enabling seamless communication between users. Implemented WebSocket functionality using Socket.io for instant messaging, integrated Redux for state management, and added JWT authentication for secure access.",
+    image: chatapp,
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React JS",
+      "Node.js",
+      "Express",
+      "Socket.io",
+      "Redux",
+      "MongoDB",
+      "Tailwind CSS",
+      "JWT",
+    ],
+    github: "https://github.com/swayamkr86/ChatApp",
+    webapp: "https://chatapp-demo.onrender.com",
+  },
+  {
+    id: 2,
+    title: "AI Image Classifier",
+    description:
+      "An AI-powered image classification system built with deep learning models. Leveraged TensorFlow and PyTorch to train convolutional neural networks (CNNs) on image datasets, achieving high accuracy. Deployed the model using Streamlit for an interactive and user-friendly interface.",
+    image: imageclassifier,
+    tags: [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Seaborn",
+      "Streamlit",
+      "CNN",
+    ],
+    github: "https://github.com/swayamkr86/ImageClassifier",
+    webapp: "https://imageclassifier-demo.streamlit.app",
+  },
+  {
+    id: 3,
     title: "Your Online Bookstore",
     description:
       "It is a MERN stack-powered online bookstore that offers a smooth browsing and purchasing experience. With robust form validation, user authentication, it provides a secure and user-friendly platform for book lovers and sellers alike.",
@@ -337,7 +380,7 @@ export const projects = [
     webapp: "https://bookstore-13nr.onrender.com",
   },
   {
-    id: 2,
+    id: 4,
     title: "Trendy Clothing Store",
     description:
       "It is a sleek and responsive clothing website developed using React, Bootstrap, Node.js, and Express.js. It features intuitive navigation, delivering a smooth and stylish shopping experience for fashion-forward users.",
