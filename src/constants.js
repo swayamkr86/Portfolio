@@ -246,7 +246,7 @@ export const education = [
     img: BVP_logo,
     school: "Bharati Vidyapeeth Deemed University",
     date: "Sept 2021 - Aug 2025",
-    grade: "8.56/10",
+    grade: "CGPA: 8.56/10",
     desc: "I am pursuing my Bachelor's degree (B.Tech) in Computer Science and Engineering from Deemed University, Pune. During my time, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at Deemed University has been instrumental in shaping my technical abilities and professional growth.",
     degree:
       "Bachelor of Technology - B.Tech in Computer Science and Engineering (CSE)",
