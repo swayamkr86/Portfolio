@@ -336,7 +336,7 @@ export const projects = [
       "JWT",
     ],
     github: "https://github.com/swayamkr86/ChatApp",
-    webapp: "https://chatapp-demo.onrender.com",
+    webapp: "https://chatapp-xsug.onrender.com",
   },
   {
     id: 2,
@@ -356,8 +356,8 @@ export const projects = [
       "Streamlit",
       "CNN",
     ],
-    github: "https://github.com/swayamkr86/ImageClassifier",
-    webapp: "https://imageclassifier-demo.streamlit.app",
+    github: "https://github.com/swayamkr86/AI-Image-Classifier",
+    webapp: "https://ai-image-classifier-deep-learning.streamlit.app/",
   },
   {
     id: 3,
