@@ -128,7 +128,7 @@ export const SkillsInfo = [
     ],
   },
   {
-    title: "Languages",
+    title: "Programming and Scripting Languages",
     skills: [
       { name: "C", logo: cLogo },
       { name: "C++", logo: cppLogo },
@@ -195,7 +195,7 @@ export const SkillsInfo = [
     ],
   },
   {
-    title: "Tools",
+    title: "Cloud Services & DevOps",
     skills: [
       { name: "Linux", logo: Linux },
       { name: "Git", logo: gitLogo },
