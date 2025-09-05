@@ -157,6 +157,8 @@ export const SkillsInfo = [
       { name: "Socket.io", logo: Socketio },
       { name: "Jupyter Notebook", logo: JupyterNotebook },
       { name: "Google Colab", logo: GoogleColab },
+      { name: "Streamlit", logo: Streamlit },
+      { name: "MongoDB Atlas", logo: mongodbLogo },
       // { name: "Figma", logo: figmaLogo },
     ],
   },
