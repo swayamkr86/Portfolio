@@ -93,6 +93,8 @@ import BVP_logo from "./assets/education_logo/BVP_logo.png";
 import airbnb from "./assets/work_logo/airbnb.png";
 import bookStore from "./assets/work_logo/bookStore.png";
 import Myntra from "./assets/work_logo/Myntra.png";
+import chatapp from "./assets/work_logo/chatapp.png";
+import imageclassifier from "./assets/work_logo/imageclassifier.png";
 
 export const SkillsInfo = [
   {
