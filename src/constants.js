@@ -225,7 +225,7 @@ export const experiences = [
     img: Deloitte,
     role: "AI/ML Intern",
     company: "Deloitte",
-    //date: "June 2025 - July 2025",
+    date: "June 2025 - July 2025",
     desc: "Designed and optimized machine learning models using Python, TensorFlow, and scikit-learn, achieving improved prediction accuracy. Automated data preprocessing workflows and deployed proof-of-concept AI solutions with Streamlit to demonstrate scalability for business applications.",
     skills: [
       "Python",
@@ -243,7 +243,7 @@ export const experiences = [
     img: CognifyzLogo,
     role: "Fullstack Developer Intern",
     company: "Cognifyz Technologies",
-    //date: "July 2024 - August 2024",
+    date: "July 2024 - August 2024",
     desc: "Developed dynamic and scalable web applications using the MERN stack, handling both frontend and backend development. Collaborated with cross-functional teams to build responsive UI, implement RESTful APIs, and optimize application performance in an agile environment.",
     skills: [
       "HTML",
