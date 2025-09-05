@@ -186,9 +186,9 @@ export const SkillsInfo = [
   {
     title: "Soft Skills",
     skills: [
-      { name: "Leadership", logo: Leadership },
-      { name: "Communication", logo: Communication },
-      { name: "Teamwork", logo: Teamwork },
+      { name: "Leader-ship", logo: Leadership },
+      { name: "Comm-unication", logo: Communication },
+      { name: "Team-work", logo: Teamwork },
       { name: "Problem Solving", logo: ProblemSolving },
       { name: "Critical Thinking", logo: CriticalThinking },
       { name: "Project Manage-ment", logo: ProjectManagement },
