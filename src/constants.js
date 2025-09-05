@@ -54,6 +54,31 @@ import OpenAI_API from "./assets/tech_logo/OpenAI_API.png";
 import FAISS from "./assets/tech_logo/FAISS.avif";
 import Pinecone from "./assets/tech_logo/Pinecone.png";
 import Weaviate from "./assets/tech_logo/Weaviate.png";
+import PHP from "./assets/tech_logo/PHP.webp";
+import Django from "./assets/tech_logo/Django.png";
+import SQL from "./assets/tech_logo/SQL.png";
+import RestAPI from "./assets/tech_logo/RestAPI.webp";
+import Socketio from "./assets/tech_logo/Socketio.png";
+import JupyterNotebook from "./assets/tech_logo/JupyterNotebook.png";
+import GoogleColab from "./assets/tech_logo/GoogleColab.png";
+import Leadership from "./assets/tech_logo/Leadership.jpg";
+import Communication from "./assets/tech_logo/Communication.jpg";
+import Teamwork from "./assets/tech_logo/Teamwork.png";
+import ProblemSolving from "./assets/tech_logo/ProblemSolving.jpg";
+import CriticalThinking from "./assets/tech_logo/CriticalThinking.png";
+import ProjectManagement from "./assets/tech_logo/ProjectManagement.png";
+import Linux from "./assets/tech_logo/Linux.webp";
+import Jenkins from "./assets/tech_logo/Jenkins.png";
+import GitLab from "./assets/tech_logo/GitLab.jpg";
+import Docker from "./assets/tech_logo/Docker.png";
+import Kubernetes from "./assets/tech_logo/Kubernetes.png";
+import Terraform from "./assets/tech_logo/Terraform.png";
+import Ansible from "./assets/tech_logo/Ansible.jpg";
+import AWS from "./assets/tech_logo/AWS.png";
+import Azure from "./assets/tech_logo/Azure.png";
+import Prometheus from "./assets/tech_logo/Prometheus.png";
+import Grafana from "./assets/tech_logo/Grafana.webp";
+import ELK_Stack from "./assets/tech_logo/ELK_Stack.png";
 
 // Experience Section Logo's
 import CognifyzLogo from "./assets/company_logo/Cognifyz_logo.png";
@@ -75,6 +100,7 @@ export const SkillsInfo = [
       { name: "CSS", logo: cssLogo },
       // { name: "SASS", logo: sassLogo },
       { name: "JavaScript", logo: javascriptLogo },
+      { name: "TypeScript", logo: typescriptLogo },
       { name: "React JS", logo: reactjsLogo },
       // { name: "Angular", logo: angularLogo },
       { name: "Redux", logo: reduxLogo },
@@ -96,6 +122,9 @@ export const SkillsInfo = [
       { name: "MongoDB", logo: mongodbLogo },
       // { name: "Firebase", logo: firebaseLogo },
       { name: "PostgreSQL", logo: postgreLogo },
+      { name: "PHP", logo: PHP },
+      { name: "Django", logo: Django },
+      { name: "SQL", logo: SQL },
     ],
   },
   {
@@ -124,6 +153,10 @@ export const SkillsInfo = [
       { name: "Render", logo: render },
       { name: "JWT", logo: jwt },
       { name: "Cloudinary", logo: Cloudinary },
+      { name: "Rest API", logo: RestAPI },
+      { name: "Socket.io", logo: Socketio },
+      { name: "Jupyter Notebook", logo: JupyterNotebook },
+      { name: "Google Colab", logo: GoogleColab },
       // { name: "Figma", logo: figmaLogo },
     ],
   },
@@ -148,6 +181,36 @@ export const SkillsInfo = [
       { name: "FAISS", logo: FAISS },
       { name: "Pinecone", logo: Pinecone },
       { name: "Weaviate", logo: Weaviate },
+    ],
+  },
+  {
+    title: "Soft Skills",
+    skills: [
+      { name: "Leadership", logo: Leadership },
+      { name: "Communication", logo: Communication },
+      { name: "Teamwork", logo: Teamwork },
+      { name: "Problem Solving", logo: ProblemSolving },
+      { name: "Critical Thinking", logo: CriticalThinking },
+      { name: "Project Management", logo: ProjectManagement },
+    ],
+  },
+  {
+    title: "Tools",
+    skills: [
+      { name: "Linux", logo: Linux },
+      { name: "Git", logo: gitLogo },
+      { name: "GitHub", logo: githubLogo },
+      { name: "Jenkins(CI/CD)", logo: Jenkins },
+      { name: "GitLab(CI/CD)", logo: GitLab },
+      { name: "Docker", logo: Docker },
+      { name: "Kubernetes", logo: Kubernetes },
+      { name: "Terraform", logo: Terraform },
+      { name: "Ansible", logo: Ansible },
+      { name: "AWS", logo: AWS },
+      { name: "Azure", logo: Azure },
+      { name: "Prometheus", logo: Prometheus },
+      { name: "Grafana", logo: Grafana },
+      { name: "ELK Stack", logo: ELK_Stack },
     ],
   },
 ];
