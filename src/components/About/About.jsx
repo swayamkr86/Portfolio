@@ -42,11 +42,11 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed pr-2">
-            I am a full-stack developer with experience in building scalable web applications. Skilled in both front-end and back-end development, I specialize in the MERN stack and other modern technologies to create seamless user experiences and efficient solutions.
+            Entry-level Full-Stack Developer skilled in MERN, DevOps practices, and applied Machine Learning. Experienced in building scalable web applications, developing secure APIs, and deploying ML models in real-world projects. Delivered measurable improvements across internships through UI optimization, CI/CD usage, and model automation. Open to full-stack, backend, and MLOps roles.
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1OCI_hI80dYfxWe1DUklV4W1O9ht_Xkue/view?usp=sharing"
+            href="https://drive.google.com/file/d/1ERlVz9aiODFfLBV8WkUfZvrwZabHw6zN/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
