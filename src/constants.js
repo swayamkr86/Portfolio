@@ -224,7 +224,7 @@ export const SkillsInfo = [
       { name: "Comm-unication", logo: Communication },
       { name: "Team-work", logo: Teamwork },
       { name: "Problem Solving", logo: ProblemSolving },
-      { name: "Adaptability", logo: Adaptability },
+      { name: "Adapt-ability", logo: Adaptability },
       // { name: "Critical Thinking", logo: CriticalThinking },
       // { name: "Project Manage-ment", logo: ProjectManagement },
     ],
