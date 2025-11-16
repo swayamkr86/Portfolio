@@ -27,6 +27,7 @@ const About = () => {
               text={[
                 'Fullstack Developer',
                 'AI/ML Engineer',
+                'DevOps & Cloud Engineer',
                 'App Developer',
                 'UI/UX Designer',
                 'Coder',
